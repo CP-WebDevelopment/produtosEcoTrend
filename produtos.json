@@ -21,13 +21,6 @@
       "valor":"R$29,00"
     },
     {
-     "id": 3,
-      "imagem": "https://raw.githubusercontent.com/CP-VebDevelopment/produtosEcoTrend/main/imgs/balmHidratante.PNG",
-      "produto": "Balm Hidrantante Labial Sólido",
-      "descricao": "O Balm Hidratante Labial Sólido da AmoKarité é o cuidado ideal para os lábios e outras áreas ressecadas do corpo. Com uma fórmula rica em ingredientes naturais, ele hidrata, cicatriza e nutre profundamente, funcionando também como um aliado na aplicação de maquiagens sólidas. Além disso, é 100% plastic-free e não gera resíduos, unindo cuidado pessoal à sustentabilidade.",
-      "valor":"R$20,00"
-    },
-    {
       "id": 4,
       "imagem": "https://raw.githubusercontent.com/CP-VebDevelopment/produtosEcoTrend/main/imgs/iluminadorSolido.PNG",
       "produto": "Iluminador Sólido Multifuncional Diamante 5g",
@@ -40,12 +33,5 @@
       "produto": "Corretivo Cremoso 3 em 1",
       "descricao": "Nossos Corretivos são 100% naturais e veganos, além de serem livres de petrolatos, parabenos, sulfatos, metais pesados e demais substâncias nocivas ao nosso corpo e ao meio-ambiente. Parte da beleza limpa e ainda com preços super acessíveis comparado aos outros produtos desse mercado.",
       "valor":"R$65,00"
-    },
-    {
-      "id": 5,
-      "imagem": "https://raw.githubusercontent.com/CP-VebDevelopment/produtosEcoTrend/main/imgs/iluminadorSolido.PNG",
-      "produto": "Iluminador Sólido Multifuncional Diamante 5g",
-      "descricao": "A coleção Luminares da AmoKarité traz o toque de luz perfeito para o seu dia a dia: iluminadores sólidos 100% naturais, veganos e sustentáveis, que nutrem a pele enquanto iluminam.",
-      "valor":"R$35,00"
-    }     
+    }
   ]  
