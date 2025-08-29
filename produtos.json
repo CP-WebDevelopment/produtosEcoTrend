@@ -33,5 +33,43 @@
     "produto": "Corretivo Cremoso 3 em 1",
     "descricao": "Nossos Corretivos são 100% naturais e veganos, além de serem livres de petrolatos, parabenos, sulfatos, metais pesados e demais substâncias nocivas ao nosso corpo e ao meio-ambiente. Parte da beleza limpa e ainda com preços super acessíveis comparado aos outros produtos desse mercado.",
     "valor":"R$65,00"
+  },
+  {
+    "id": 6,
+    "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/deliniador.png",
+    "produto": "Delineador para olhos Cereja ",
+    "descricao": "O cereja chegou para destacar o olhar com sofisticação, ousadia e um toque fashion que valorizaainda mais olhos castanhos e verdes.",
+    "valor":"R$89,25"
+  },
+  {
+    "id": 7,
+    "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/baseLiquida.png",
+    "produto": "Base Líquida Nutritiva 50g",
+    "descricao": "A melhor base de beleza limpa com ingredientes 100% naturais, hipoalergênica está ainda melhor.",
+    "valor":"R$104,25"
+  },
+  
+  {
+    "id": 8,
+    "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/mascaraFortalecedora.png",
+    "produto": "Máscara Fortalecedora de Cílios Preta",
+    "descricao": "Nossa Máscara de Cílios Fortalecedora é a melhor do mercado de Beleza Limpa! (Clean Beauty)",
+    "valor":"R$89,25"
+  },
+
+  {
+    "id": 9,
+    "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/mascaraFortalecedora.png",
+    "produto": "Máscara Fortalecedora de Cílios Preta",
+    "descricao": "Nossa Máscara de Cílios Fortalecedora é a melhor do mercado de Beleza Limpa! (Clean Beauty)",
+    "valor":"R$89,25"
+  },
+
+  {
+    "id": 10,
+    "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/necessaire.png",
+    "produto": "Necessaire Karite Maduu",
+    "descricao": "Nossa necessaire personalizada na colab com a Maduu está disponivel para compra, aproveite para presentear quem ama :)",
+    "valor":"R$45,00"
   }
 ]
