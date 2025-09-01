@@ -3,73 +3,70 @@
     "id": 1,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/baseSolida.png",
     "produto": "Base Sólida Multifuncional 3 em 1",
-    "descricao": "A nossa Base Sólida Multifuncional 3 em 1 é a maior inovação da AmoKarité! Formato de frutinha inconfundível, embalagem de celofane vegetal, zero lixo e waterless, eas vem SEM EMBALAGEM, a ideia aqui é você reutilizar uma embalagem que você já tenha em casa (de preferência uma que iria para o lixo) para armazenar sua Base Sólida. Ela serve para uniformizar o tom da pele, neutralizando manchinhas e áreas vermelhas no rosto, cobrindo imperfeições como espinhas e marcas de acne.",
+    "descricao": "Base sólida 3 em 1 que uniformiza o tom, neutraliza vermelhidão e cobre imperfeições. Waterless e sem embalagem: reutilize um potinho que você já tenha.",
     "valor": "R$35,00"
   },
   {
     "id": 2,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/batomSolido.PNG",
     "produto": "Batom Sólido Multifuncional 3 em 1 - Pitaya",
-    "descricao": "Ela vem numa embalagem primária de celofane vegetal, biodegradável e descartável e com uma embalagem secundária de papel em formato de caixinha para protege-la durante o transporte. Mas tecnicamente elas vem SEM EMBALAGEM, a ideia aqui, é você reutilizar uma embalagem que você já tenha em casa, higienizada, que iria para o lixo dando uma sobrevida para ela  para armazenar o seu batom multifuncional sólido e protegendo-o e transportando-o para onde quiser.",
-    "valor":"R$25,00"
+    "descricao": "Batom sólido 3 em 1 (lábios, bochechas e olhos) na cor Pitaya. Vem em celofane vegetal e incentiva o reuso de um recipiente para armazenar.",
+    "valor": "R$25,00"
   },
   {
     "id": 3,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/balmHidratante.PNG",
     "produto": "Balm Hidrantante Labial Sólido",
-    "descricao": "O Balm Hidratante Labial Sólido da AmoKarité é o cuidado ideal para os lábios e outras áreas ressecadas do corpo. Com uma fórmula rica em ingredientes naturais, ele hidrata, cicatriza e nutre profundamente, funcionando também como um aliado na aplicação de maquiagens sólidas. Além disso, é 100% plastic-free e não gera resíduos, unindo cuidado pessoal à sustentabilidade.",
-    "valor":"R$29,00"
+    "descricao": "Hidrata e nutre lábios e áreas ressecadas com ingredientes naturais. 100% plastic-free e aliado na aplicação de maquiagens sólidas.",
+    "valor": "R$29,00"
   },
   {
     "id": 4,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/iluminadorSolido.PNG",
     "produto": "Iluminador Sólido Multifuncional Diamante 5g",
-    "descricao": "A coleção Luminares da AmoKarité traz o toque de luz perfeito para o seu dia a dia: iluminadores sólidos 100% naturais, veganos e sustentáveis, que nutrem a pele enquanto iluminam.",
-    "valor":"R$35,00"
+    "descricao": "Iluminador sólido natural, vegano e sustentável. Nutre a pele enquanto entrega um brilho suave e elegante.",
+    "valor": "R$35,00"
   },
   {
     "id": 5,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/corretivoCremoso.PNG",
     "produto": "Corretivo Cremoso 3 em 1",
-    "descricao": "Nossos Corretivos são 100% naturais e veganos, além de serem livres de petrolatos, parabenos, sulfatos, metais pesados e demais substâncias nocivas ao nosso corpo e ao meio-ambiente. Parte da beleza limpa e ainda com preços super acessíveis comparado aos outros produtos desse mercado.",
-    "valor":"R$65,00"
+    "descricao": "Corretivo natural e vegano, livre de petrolatos, parabenos e sulfatos. Cobertura versátil com preço acessível de clean beauty.",
+    "valor": "R$65,00"
   },
   {
     "id": 6,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/deliniador.png",
     "produto": "Delineador para olhos Cereja ",
-    "descricao": "O cereja chegou para destacar o olhar com sofisticação, ousadia e um toque fashion que valorizaainda mais olhos castanhos e verdes.",
-    "valor":"R$89,25"
+    "descricao": "Delineador cereja para destacar o olhar com ousadia. Valoriza especialmente olhos castanhos e verdes.",
+    "valor": "R$89,25"
   },
   {
     "id": 7,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/baseLiquida.png",
     "produto": "Base Líquida Nutritiva 50g",
-    "descricao": "A melhor base de beleza limpa com ingredientes 100% naturais, hipoalergênica está ainda melhor.",
-    "valor":"R$104,25"
+    "descricao": "Base líquida hipoalergênica com ingredientes 100% naturais. Uniformiza a pele enquanto trata.",
+    "valor": "R$104,25"
   },
-  
   {
     "id": 8,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/mascaraFortalecedora.png",
     "produto": "Máscara Fortalecedora de Cílios Preta",
-    "descricao": "Nossa Máscara de Cílios Fortalecedora é a melhor do mercado de Beleza Limpa! (Clean Beauty)",
-    "valor":"R$89,25"
+    "descricao": "Define e fortalece os cílios com fórmula de clean beauty. Acabamento preto intenso.",
+    "valor": "R$89,25"
   },
-
   {
     "id": 9,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/kit-cereja.png",
     "produto": "Kit Cereja",
-    "descricao": "iebfiefecdj",
-    "valor":"R$89,25"
+    "descricao": "Combina itens da linha Cereja para um look completo. Prático para presentear e levar na bolsa.",
+    "valor": "R$89,25"
   },
-
   {
     "id": 10,
     "imagem": "https://raw.githubusercontent.com/CP-WebDevelopment/produtosEcoTrend/main/imgs/necessaire.png",
     "produto": "Necessaire Karite Maduu",
-    "descricao": "Nossa necessaire personalizada na colab com a Maduu está disponivel para compra, aproveite para presentear quem ama :)",
-    "valor":"R$45,00"
+    "descricao": "Necessaire personalizada da collab com a Maduu. Leve e prática para organizar seus sólidos.",
+    "valor": "R$45,00"
   }
 ]
